@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main(){
+int main(){                      //to check pass or fail 
     float marks;
     cout<<"enter students marks :";
     cin>>marks;
